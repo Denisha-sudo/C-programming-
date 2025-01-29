@@ -1,1 +1,7 @@
-my new journey to github
+include<stdio.h>
+int main(){ 
+int;
+int printf("enter your name");
+scanf("%d"&int);
+return 0;
+}
